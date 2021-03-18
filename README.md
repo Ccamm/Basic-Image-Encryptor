@@ -1,5 +1,15 @@
 # Basic Image Encryptor Using Bitwise Operations
 
+## Requirements
+
+* Python 3.8+
+* OpenCV2 for Python installed.
+* Numpy installed.
+
+---
+
+## Bad Description and Demo
+
 Encrypts an image by generating a random byte key then XORing it with an input image. Can do AND and OR operations for demonstration purposes.
 
 Example usage using the files in [example_files](example_files/).
